@@ -6,3 +6,8 @@
 
 ☑️  **중급 과정**
    - [**`Plan_Intermediate.pdf`**](https://github.com/lllilililli/2025-MYPAUL-PYTHONEDU/blob/main/Main/Plan_Intermediate.pdf)
+
+# Go to Class
+
+## [기초 과정](https://github.com/lllilililli/2025-MYPAUL-PYTHONEDU/tree/main/Main/Basic)
+## [중급 과정]
