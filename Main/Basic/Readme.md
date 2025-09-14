@@ -1,6 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Basic%20&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=70&)
 
-## [GoToBack](https://github.com/lllilililli/2025-MYPAUL-PYTHONEDU/tree/main)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Basic&fontSize=90&animation=fadeIn&fontAlignY=38&desc=15:30%20~%2017:20%20on%20Fridays&descAlignY=51&descAlign=51"/>
+</p>
+
+<p align='center'>
+  <a href="https://github.com/lllilililli/2025-MYPAUL-PYTHONEDU/tree/main">
+    <img src="https://img.shields.io/badge/Go%20To%20Back%20-%23F7DF1E.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+  <a href="https://github.com/lllilililli/2025-MYPAUL-PYTHONEDU/tree/main">
+    <img src="https://img.shields.io/badge/Intermediate%20-%81DAD6.svg?&style=for-the-badge&&logoColor=white"/>
+  </a>
+</p>
 
 #  Notice ❗️
 ☑️ **Assignment**
